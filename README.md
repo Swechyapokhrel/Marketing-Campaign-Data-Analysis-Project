@@ -112,19 +112,19 @@ The project focuses on both marketing performance and business performance.
 
 This chart shows which marketing channels contributed the most revenue.
 
-![Revenue by Channel](assets/revenue_by_channel.png)
+![Revenue by Channel](revenue_by_channel.png)
 
 ### Cost per Qualified Lead by Paid Channel
 
 This chart helps identify where paid marketing spend was efficient and where optimization was needed.
 
-![Cost per Qualified Lead by Paid Channel](assets/cost_per_qualified_lead_by_paid_channel.png)
+![Cost per Qualified Lead by Paid Channel](cost_per_qualified_lead_by_paid_channel.png)
 
 ### Monthly Spend vs Revenue
 
 This chart compares marketing spend and revenue over time to understand monthly performance trends.
 
-![Monthly Spend vs Revenue](assets/monthly_spend_vs_revenue.png)
+![Monthly Spend vs Revenue](monthly_spend_vs_revenue.png)
 
 ---
 
